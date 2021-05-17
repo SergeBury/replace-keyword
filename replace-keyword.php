@@ -7,7 +7,7 @@
 Plugin Name: Replace-keyword
 Description: Плагин в статьях добавляет для вхождения ключевых слов из keywords.txt кастомную строку.
 Author: Me
-Version: 1.0
+Version: 1.1
 */
 
 define('PLUGIN_DIR', plugin_dir_path(__FILE__));
