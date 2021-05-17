@@ -1,7 +1,7 @@
 <?php
 /**
  * @package replace-keyword
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Replace-keyword
